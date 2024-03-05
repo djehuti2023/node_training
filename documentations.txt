@@ -1,0 +1,14 @@
+Pour lodash
+
+lodash.com
+https://www.npmjs.com/package/lodash
+
+Pour express
+
+https://www.npmjs.com/package/express
+http://expressjs.com/
+
+Pour nodemon
+
+nodemon.io
+https://www.npmjs.com/package/nodemon
